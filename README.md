@@ -2,9 +2,12 @@
 
 Answers for the exercises and exam of the "Microprocessor Systems Laboratory" course at ECE NTUA for the academic year 2022-2023.
 
-**Exercise Grade**: 10/10  
-**Exam Grade**: 10/10
-
+## Team Members
+- **Raptopoulos Petros**: `el19145`
+- **Constantine Safos**: `el19172`
+##
+- [x] **Exercise Grade**: 10/10  
+- [x] **Exam Grade**: 10/10
 ## Development Environment
 
 - **Language**: Assembly/C
