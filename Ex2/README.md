@@ -1,2 +1,2 @@
-Ο κώδικας C στην άσκηση 3 που υποβλήθηκε (αυτός που είναι στο Report - Ex3_C) δεν είναι o final-λειτουργικός.
-Ο final-λειτουργικός είναι το Ex3V2_C.
+The submitted code (Ex3_C) for the Exercise 3 (the one included in the Report) isn't fully functional.
+The final code is the one included in the Ex3V2_C file.
